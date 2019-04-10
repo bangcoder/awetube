@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "name": "awetube",
+  "version": "1.0.0",
+  "description": "learning youtube coding with aws computing",
+  "main": "index.js",
+  "author": "bangcoder",
+  "license": "MIT"
+}
